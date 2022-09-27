@@ -305,6 +305,8 @@ def get_geographical_heuristic(node,goal):
     return manhattan_dist2
 
 
+
+
 if __name__ == '__main__':
     graph_neighbours = generate_graph()
 
